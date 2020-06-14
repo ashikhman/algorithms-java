@@ -1,4 +1,4 @@
-package com.ashikhman.alogrithms.memento;
+package com.ashikhman.algrithms.memento;
 
 import lombok.RequiredArgsConstructor;
 
